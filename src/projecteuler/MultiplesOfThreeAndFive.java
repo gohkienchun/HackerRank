@@ -1,4 +1,4 @@
-package project.euler;
+package projecteuler;
 
 import java.util.Scanner;
 

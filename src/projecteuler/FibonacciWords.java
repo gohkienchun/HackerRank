@@ -26,6 +26,7 @@ public class FibonacciWords {
             char r = fibo.getByInitPos();
             System.out.println(r);
         }
+        scan.close();
     }
 
     static class Fibonacci {

@@ -16,6 +16,7 @@ public class MultiplesOfThreeAndFive {
             long sum = arithmetic.sumOfMultiplesOf3And5();
             System.out.println(sum);
         }
+        scan.close();
     }
 
     static class Arithmetic {
